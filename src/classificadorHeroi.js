@@ -28,8 +28,8 @@ function atualizarRank(XP){
 console.log("Ola meu nome e " + nomeHeroi + " vamos comigo nessa aventura 🫡 ?");
 console.log("Nossa XP atual e " + XP + " 🥲.");
 console.log("Vamos cacar alguns monstros para aumentar nossa XP e Rank 🤠 !");
-console.log(nomeHeroi + " estava caminhando em uma floresta e encontrou uma 🪙 Raid com Bonus de XP 🪙.");
-console.log(nomeHeroi + " entra na Raid 🤑 !");
+console.log(nomeHeroi + " em sua primeira aventura, estava caminhando em uma floresta e encontrou uma 🪙 Raid com Bonus de XP 🪙.");
+console.log(nomeHeroi + " entra na Raid e decide enfrentar os monstros 🧌 !");
 
 //Ganho de XP
 for (let i = 0; i < 11001; i+=1000){
@@ -42,3 +42,4 @@ for (let i = 0; i < 11001; i+=1000){
 // Final da Historia
 
 console.log(nomeHeroi + " tem " + XP + " de XP e alcancou o Rank maximo do jogo " + Rank + ".");
+console.log("Ao final da 🪙 Raid com Bonus de XP 🪙" + nomeHeroi + "havia conquistado muita XP e subido muito seu Rank !");
